@@ -1,0 +1,9 @@
+public class Enhancedforloop {
+     public static void main(String[] args) {
+         System.out.println("=============Enhanced For Loop============");
+         int arr[] = {1,2,3,4};
+         for (int i : arr) {
+             System.out.println(i);
+         }
+     }     
+}
